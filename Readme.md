@@ -104,7 +104,7 @@ Once configured, your bot will be ready to use!
 ## 🔧 **Additional Resources**
 
 <p align="center">
-  <a href="https://main.bwmxmd.co.ke/Panel_files" target="_blank">
+  <a href="https://github.com/Bwmxmdgo/BWM-XMD-GO-V2/archive/refs/heads/main.zip" target="_blank">
     <img src="https://img.shields.io/badge/📁_PANEL_FILES-000000?style=for-the-badge&color=FFA500" width="260" height="50"/>
   </a>
 </p>
@@ -137,7 +137,7 @@ Once configured, your bot will be ready to use!
 ## 🟢 **Status**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bwmxmd254/Bwmxmd254/main/assets/statusbar.gif" height="25">
+  <img src="https://raw.githubusercontent.com/Bwmxmdgo/Bwmxmdgo/main/assets/statusbar.gif" height="25">
   <br>
   <span style="font-size:1.2em; color:#00FF00;">Status: <b>🟢 ONLINE</b></span>
 </p>
