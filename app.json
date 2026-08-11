@@ -8,14 +8,14 @@
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
-    "Ibrahimadams",
-    "whatsapp",
+    "whatsapp-sticker-bot",
+    "whatsapp-botto",
     "baileys",
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Bwmxmd254/BWM-XMD-GO#readme",
-  "repository": "https://github.com/Bwmxmd254/BWM-XMD-GO.git",
+  "website": "https://github.com/Bwmxmdgo/BWM-XMD-GO-V2#readme",
+  "repository": "https://github.com/Bwmxmdgo/BWM-XMD-GO-V2.git",
   "logo": "https://files.catbox.moe/bkuj17.jpg",
   "success_url": "/",
   "env": {
@@ -46,4 +46,3 @@
   ],
   "stack": "heroku-24"
 }
-
